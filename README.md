@@ -4,7 +4,8 @@
 
 - 🔨 Hoje trabalho com front-end
 - 📖 Estudando JavaScript
-- 📨 Entre em contato comigo no email: heitorfaccinpereira@hotmail.com
+
+##
 
 ![HeitorFPereira GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorFPereira&show_icons=true&theme=dark&bg_color=00000000)
 
